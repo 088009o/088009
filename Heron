@@ -1,0 +1,9 @@
+git remoto adicionar origem https://github.com/088009o/088009.git
+ git branch -M principal 
+echo "# 088009" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/088009o/088009.git
+ git push -u origin maingit push -u origem principal
